@@ -1,0 +1,6 @@
+@RTSYS.API_HostAddress = http://localhost:5187
+
+GET {{RTSYS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
